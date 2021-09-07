@@ -12,5 +12,5 @@ Deste modo, a definição que concretiza a noção de tabela hash com encadeamen
 vector<list<pair<Tkey,Tval>>> table;
 Nesta definição, Tkey e Tval são, respectivamente, o tipo da chave e o tipo do valor associado à chave. Esses tipos são tipos genéricos declarados no template de classe HashTable.
 
-Testes encontram-se na pasta 'testes'
+Testes encontram-se na pasta 'testes'.
 
